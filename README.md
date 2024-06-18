@@ -8,15 +8,12 @@ This cookbook is collaboratively authored by participants in the University of W
 
 ### Appetizers, Sides and Salads
 
-
 ### Entrées
 
-
 - [Breakfast Tacos](Entrees/BreakfastTacos.md)
-
 - [Shakshuka](Entrees/Shakshuka.md)
 - [Pad Thai Recipe](Entrees/SB-pad-thai-recipe.md)
-
+- [Ribs](Entress/ribs.md)
 - [Chipotle Cilantro Lime Chicken (Pollo Asado)](Entrees/chipotle-chicken.md)
 
 ### Desserts
@@ -27,7 +24,6 @@ This cookbook is collaboratively authored by participants in the University of W
 - [Ube Crinkle Cookies](Desserts/ube-crinkle-cookies.md)
 - [The Best Chewy Brownies](Desserts/chewy-brownies.md)
 - [Star anise snickerdoodles](Desserts/snickerdoodles.md)
-main
 
 ### Drinks
 - [Water](Drinks/water.md)
@@ -36,3 +32,4 @@ main
 ## Authors
 
 - Naomi Alterman
+- HDSSI crew
