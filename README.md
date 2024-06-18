@@ -15,7 +15,7 @@ This cookbook is collaboratively authored by participants in the University of W
 - [Breakfast Tacos](Entrees/BreakfastTacos.md)
 - [Shakshuka](Entrees/Shakshuka.md)
 - [Pad Thai Recipe](Entrees/SB-pad-thai-recipe.md)
-- [Ribs](Entress/ribs.md)
+- [Ribs](Entrees/ribs.md)
 - [Chipotle Cilantro Lime Chicken (Pollo Asado)](Entrees/chipotle-chicken.md)
 - [Mexican Rice Recipe](Entrees/mexican-rice.md)
 
