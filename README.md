@@ -13,6 +13,7 @@ This cookbook is collaboratively authored by participants in the University of W
 ### Desserts
 - [Oatmeal Butterscotch Cookies](Desserts/oatmeal-butterscotch-cookies.md)
 - [Bourbon Browned Butter Spice Cookies](Desserts/bourbon-browned-butter-spice-cookies.md)
+- Lemon Tart
 
 ### Drinks
 - [Water](Drinks/water.md)
