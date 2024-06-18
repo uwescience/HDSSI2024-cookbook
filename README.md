@@ -16,6 +16,7 @@ This cookbook is collaboratively authored by participants in the University of W
 ### Desserts
 - [Oatmeal Butterscotch Cookies](Desserts/oatmeal-butterscotch-cookies.md)
 - [Bourbon Browned Butter Spice Cookies](Desserts/bourbon-browned-butter-spice-cookies.md)
+- [The Best Chewy Brownies](Desserts/chewy-brownies.md)
 - [Star anise snickerdoodles](Desserts/snickerdoodles.md)
 
 ### Drinks
