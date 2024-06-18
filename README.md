@@ -9,6 +9,7 @@ This cookbook is collaboratively authored by participants in the University of W
 ### Appetizers, Sides and Salads
 
 ### Entrées
+- [Mu Jorim](Entrees/Mu-Jorim.md)
 
 - [Breakfast Tacos](Entrees/BreakfastTacos.md)
 - [Shakshuka](Entrees/Shakshuka.md)
