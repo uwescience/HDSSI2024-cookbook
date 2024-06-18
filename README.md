@@ -8,11 +8,14 @@ This cookbook is collaboratively authored by participants in the University of W
 
 ### Appetizers, Sides and Salads
 
+
 ### Entrées
+- [Chipotle Cilantro Lime Chicken (Pollo Asado)](Entrees/chipotle-chicken.md)
 
 ### Desserts
 - [Oatmeal Butterscotch Cookies](Desserts/oatmeal-butterscotch-cookies.md)
 - [Bourbon Browned Butter Spice Cookies](Desserts/bourbon-browned-butter-spice-cookies.md)
+- [Star anise snickerdoodles](Desserts/snickerdoodles.md)
 
 ### Drinks
 - [Water](Drinks/water.md)
