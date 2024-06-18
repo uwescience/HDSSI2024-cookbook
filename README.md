@@ -10,6 +10,7 @@ This cookbook is collaboratively authored by participants in the University of W
 
 
 ### Entrées
+- [Shakshuka](Entrees/Shakshuka.md)
 - [Pad Thai Recipe](Entrees/SB-pad-thai-recipe.md)
 - [Chipotle Cilantro Lime Chicken (Pollo Asado)](Entrees/chipotle-chicken.md)
 
