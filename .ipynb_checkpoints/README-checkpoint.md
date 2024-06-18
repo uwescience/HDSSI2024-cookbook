@@ -8,20 +8,12 @@ This cookbook is collaboratively authored by participants in the University of W
 
 ### Appetizers, Sides and Salads
 
-
 ### Entrées
-
-- [Chicken Air Fryer](/Entrees/chicken_recipe)
-
-- [Pad Thai Recipe](Entrees/SB-pad-thai-recipe.md)
-- [Chipotle Cilantro Lime Chicken (Pollo Asado)](Entrees/chipotle-chicken.md)
-
 
 ### Desserts
 - [Oatmeal Butterscotch Cookies](Desserts/oatmeal-butterscotch-cookies.md)
 - [Bourbon Browned Butter Spice Cookies](Desserts/bourbon-browned-butter-spice-cookies.md)
-- [The Best Chewy Brownies](Desserts/chewy-brownies.md)
-- [Star anise snickerdoodles](Desserts/snickerdoodles.md)
+- [Overnight Oats](Desserts/overnight-oats.md)
 
 ### Drinks
 - [Water](Drinks/water.md)
