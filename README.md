@@ -9,6 +9,7 @@ This cookbook is collaboratively authored by participants in the University of W
 ### Appetizers, Sides and Salads
 
 ### Entrées
+- [Chicken Air Fryer](/Entrees/chicken_recipe)
 - [Karaage (Japanese Fried Chicken)](Entrees/karaage.md)
 - [Mu Jorim](Entrees/Mu-Jorim.md)
 - [Breakfast Tacos](Entrees/BreakfastTacos.md)
@@ -18,6 +19,7 @@ This cookbook is collaboratively authored by participants in the University of W
 - [Chipotle Cilantro Lime Chicken (Pollo Asado)](Entrees/chipotle-chicken.md)
 - [Mexican Rice Recipe](Entrees/mexican-rice.md)
 - [Chipotle Cilantro Lime Chicken (Pollo Asado)](Entrees/chipotle-chicken.md)
+
 
 ### Desserts
 - [Oatmeal Butterscotch Cookies](Desserts/oatmeal-butterscotch-cookies.md)
