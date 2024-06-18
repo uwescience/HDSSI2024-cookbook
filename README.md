@@ -13,6 +13,7 @@ This cookbook is collaboratively authored by participants in the University of W
 ### Desserts
 - [Oatmeal Butterscotch Cookies](Desserts/oatmeal-butterscotch-cookies.md)
 - [Bourbon Browned Butter Spice Cookies](Desserts/bourbon-browned-butter-spice-cookies.md)
+- [Apple Cider Cheesecake Cookies](Desserts/apple-cider-cheesecake-cookies.md)
 
 ### Drinks
 - [Water](Drinks/water.md)
@@ -20,3 +21,4 @@ This cookbook is collaboratively authored by participants in the University of W
 ## Authors
 
 - Naomi Alterman
+- Hoda Ayad
