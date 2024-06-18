@@ -9,6 +9,7 @@ This cookbook is collaboratively authored by participants in the University of W
 ### Appetizers, Sides and Salads
 
 ### Entrées
+- [Chipotle Cilantro Lime Chicken (Pollo Asado)](Entrees/chipotle-chicken.md)
 
 ### Desserts
 - [Oatmeal Butterscotch Cookies](Desserts/oatmeal-butterscotch-cookies.md)
