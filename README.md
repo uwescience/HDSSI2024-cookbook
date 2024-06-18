@@ -9,6 +9,7 @@ This cookbook is collaboratively authored by participants in the University of W
 ### Appetizers, Sides and Salads
 
 ### Entrées
+- [Karaage (Japanese Fried Chicken)](Entrees/karaage.md)
 
 ### Desserts
 - [Oatmeal Butterscotch Cookies](Desserts/oatmeal-butterscotch-cookies.md)
