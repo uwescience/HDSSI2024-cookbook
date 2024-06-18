@@ -8,6 +8,7 @@ This cookbook is collaboratively authored by participants in the University of W
 
 ### Appetizers, Sides and Salads
 
+
 ### Entrées
 
 ### Desserts
