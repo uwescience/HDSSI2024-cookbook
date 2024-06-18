@@ -9,6 +9,7 @@ This cookbook is collaboratively authored by participants in the University of W
 ### Appetizers, Sides and Salads
 
 ### Entrées
+- [Chicken Air Fryer](/Entrees/chicken_recipe)
 
 ### Desserts
 - [Oatmeal Butterscotch Cookies](Desserts/oatmeal-butterscotch-cookies.md)
