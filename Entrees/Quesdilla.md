@@ -1,11 +1,11 @@
 Quesdilla
 
 ingredients:
-2 tortillas
-5 TBs shredded cheese of choice
-1 avocado
-1 can of refried beans
-2 TBs sour cream
+- 2 tortillas
+- 5 TBs shredded cheese of choice
+- 1 avocado
+- 1 can of refried beans
+- 2 TBs sour cream
 
 steps:
 1. warm a flat iron, or regular pan, on medium heat
@@ -19,3 +19,5 @@ steps:
 
 Tip:
 cut the quesidlla into little triangles. add salt and pepper onto avacado if you like that.
+
+..
