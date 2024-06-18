@@ -17,8 +17,7 @@ This cookbook is collaboratively authored by participants in the University of W
 ### Desserts
 - [Oatmeal Butterscotch Cookies](Desserts/oatmeal-butterscotch-cookies.md)
 - [Bourbon Browned Butter Spice Cookies](Desserts/bourbon-browned-butter-spice-cookies.md)
-rcichows/new-recipe
-- Lemon Tart
+- [Lemon Tart](Desserts/LemonTart.txt)
 
 - [Ube Crinkle Cookies](Desserts/ube-crinkle-cookies.md)
 - [The Best Chewy Brownies](Desserts/chewy-brownies.md)
