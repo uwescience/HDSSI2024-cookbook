@@ -22,6 +22,7 @@ This cookbook is collaboratively authored by participants in the University of W
 
 ### Drinks
 - [Water](Drinks/water.md)
+- [Vietnamese Iced Coffee](Drinks/viet-coffee.md)
 
 ## Authors
 
